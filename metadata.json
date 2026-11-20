@@ -1,0 +1,6 @@
+{
+  "name": "Sàn Dịch Vụ Nông Nghiệp",
+  "description": "Nền tảng kết nối trực tiếp nông dân và nhà cung cấp dịch vụ nông nghiệp Việt Nam: Phun thuốc drone, gieo sạ, máy cắt lúa, cày bừa, nạp tiền Viettel Money, thu phí sàn 3.000đ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
